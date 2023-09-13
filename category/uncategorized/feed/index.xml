@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Lions of Paradise</title>
-	<atom:link href="httphttps://struv.github.io/LOP/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>httphttps://struv.github.io/LOP/</link>
+	<atom:link href="http://struv.github.io/LOP/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>http://struv.github.io/LOP/</link>
 	<description></description>
 	<lastBuildDate>Tue, 12 Sep 2023 23:26:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>httphttps://struv.github.io/LOP/hello-world/</link>
-					<comments>httphttps://struv.github.io/LOP/hello-world/#comments</comments>
+		<link>http://struv.github.io/LOP/hello-world/</link>
+					<comments>http://struv.github.io/LOP/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[wstruve]]></dc:creator>
 		<pubDate>Tue, 12 Sep 2023 23:26:07 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">httphttps://struv.github.io/LOP/?p=1</guid>
+		<guid isPermaLink="false">http://struv.github.io/LOP/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>httphttps://struv.github.io/LOP/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://struv.github.io/LOP/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
